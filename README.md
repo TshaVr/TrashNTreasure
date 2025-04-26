@@ -5,36 +5,36 @@ Trash and Treasure is a web-based platform designed for buying and selling secon
 ## Key Features:
 
 - Admin Subsystem:
+  
+✅ User management (add, update, remove users)
 
-+ User management (add, update, remove users)
+✅ Seller approval and product listing management
 
-+ Seller approval and product listing management
+✅ Inventory tracking and system activity monitoring
 
-+ Inventory tracking and system activity monitoring
-
-+ Logistics personnel management and assignment
+✅ Logistics personnel management and assignment
 
 - Seller Subsystem:
 
-+ Seller registration and profile management
+✅ Seller registration and profile management
 
-+ Product listing and inventory updates
+✅ Product listing and inventory updates
 
-+ Order management and sales tracking
+✅ Order management and sales tracking
 
 - Buyer Subsystem:
 
-+ Product browsing and searching
+✅ Product browsing and searching
 
-+ Cart management and secure checkout
+✅ Cart management and secure checkout
 
-+ Order tracking and delivery updates
+✅ Order tracking and delivery updates
 
 - Logistics Subsystem:
 
-+ Pickup and delivery task management
+✅ Pickup and delivery task management
 
-+ Real-time order tracking and status updates
+✅ Real-time order tracking and status updates
 
 ## Technologies Used:
 
